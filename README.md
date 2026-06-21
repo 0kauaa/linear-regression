@@ -1,3 +1,3 @@
 # linear-regression
 
-Um teste para regressão linear em Haskell.
+Um teste para regressão linear em várias linguagens.
