@@ -22,7 +22,6 @@ source-repository head
 library
   exposed-modules:
       Dataset
-      Functions
       LinearRegressor
   other-modules:
       Paths_linear_regression

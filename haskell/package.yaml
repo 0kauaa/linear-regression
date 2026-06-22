@@ -24,7 +24,6 @@ library:
   source-dirs: src
   exposed-modules:
     - Dataset
-    - Functions
     - LinearRegressor
 
 executables:

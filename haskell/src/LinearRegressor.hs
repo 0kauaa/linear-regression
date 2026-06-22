@@ -1,7 +1,6 @@
 module LinearRegressor (b0, b1) where
 
-import Functions ()
-import Dataset   (x, y)
+import Dataset (x, y)
 
 x2 :: [Double]
 x2 = map (**2) x
