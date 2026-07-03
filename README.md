@@ -8,6 +8,7 @@ Atualmente o projeto possui implementações em:
 
 - Haskell
 - Rust
+- Java
 
 ## Objetivo
 
@@ -116,7 +117,7 @@ requisitos:
 - java
 
 ```Shell
-# clonar o repositório e entrar no workspace de rust 
+# clonar o repositório e entrar no workspace de java 
 git clone https://github.com/0kauaa/linear-regression.git && cd linear-regression/java/
 
 # compilar
