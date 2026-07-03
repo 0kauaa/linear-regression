@@ -17,7 +17,7 @@ A regressão linear simples busca encontrar a reta que melhor descreve a relaç�
 O modelo possui a forma:
 
 $$
-y = \beta_{1}x + \beta+{0}
+y = \beta_{1}x + \beta_{0}
 $$
 
 onde:
