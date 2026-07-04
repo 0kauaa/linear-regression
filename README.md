@@ -104,7 +104,7 @@ requisitos:
 # clonar o repositório e entrar no workspace de rust 
 git clone https://github.com/0kauaa/linear-regression.git && cd linear-regression/rust/
 
-# compilar executar
+# compilar e executar
 cargo run
 ```
 
