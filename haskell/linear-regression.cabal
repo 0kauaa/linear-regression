@@ -21,7 +21,7 @@ source-repository head
 library
   exposed-modules:
       Dataset
-      LinearRegressor
+      Coefs
   other-modules:
       Paths_linear_regression
   hs-source-dirs:

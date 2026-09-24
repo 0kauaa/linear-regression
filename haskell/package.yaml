@@ -24,7 +24,7 @@ library:
   source-dirs: src
   exposed-modules:
     - Dataset
-    - LinearRegressor
+    - Coefs
 
 executables:
   linear-regression:

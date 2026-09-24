@@ -1,4 +1,4 @@
-module LinearRegressor (b0, b1) where
+module Coefs (b0, b1) where
 
 import Dataset (x, y)
 

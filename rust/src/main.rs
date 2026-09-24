@@ -1,6 +1,6 @@
-mod linear_regression;
-use linear_regression::b0;
-use linear_regression::b1;
+mod coefs;
+use coefs::b0;
+use coefs::b1;
 
 fn main() {
     let x = vec![6.0, 9.5, 7.6, 6.4, 2.4, 2.4, 1.5, 9.7, 6.4, 7.4, 1.2, 9.7, 8.5, 3.0, 2.6, 2.6, 3.7, 5.7, 4.9, 3.6];
