@@ -9,6 +9,7 @@ Atualmente o projeto possui implementações em:
 - Haskell
 - Rust
 - Java
+- Python
 
 ## Objetivo
 
@@ -126,4 +127,18 @@ javac -d out app/*.java model/*.java
 
 # executar
 java -cp out app.Main
+```
+
+### Python
+
+requisitos:
+
+- Python 3
+
+```Shell
+# clonar o repositório e entrar no workspace de python 
+git clone https://github.com/0kauaa/linear-regression.git && cd linear-regression/python/
+
+# executar
+python3 main.py
 ```
