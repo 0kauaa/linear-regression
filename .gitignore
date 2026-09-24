@@ -1,3 +1,4 @@
 haskell/.stack-work/
 rust/target/
 java/out/
+__pycache__
